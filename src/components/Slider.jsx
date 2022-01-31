@@ -53,6 +53,7 @@ const ImgContainer = styled.div`
 
 const Image = styled.div`
   height: 80%;
+  background-color: lightpink;
 `;
 
 const InfoContainer = styled.div`
